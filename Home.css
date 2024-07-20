@@ -169,7 +169,7 @@
   height: auto;
   min-height: 907px;
   width: 1011px;
-  margin: 0 auto;
+  margin: 26px auto 0;
 }
 
 @media (max-width: 1199px) {
