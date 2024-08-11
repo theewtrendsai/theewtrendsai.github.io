@@ -42389,21 +42389,21 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-image-2 {
-  width: 352px;
-  height: 108px;
-  margin: -86px auto 0 0;
+  width: 367px;
+  height: 113px;
+  margin: -98px auto 7px 0;
 }
 @media (max-width: 1199px) {
   .u-header .u-image-2 {
-    width: 352px;
-    height: 108px;
+    width: 367px;
+    margin-top: -98px;
   }
 }
 
 
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 116px;
+    min-height: 111px;
   }
 
   .u-header .u-image-2 {
