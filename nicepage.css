@@ -42403,12 +42403,22 @@ a.u-link.u-text-hover-grey-90:hover {
 
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 111px;
+    min-height: 80px;
+  }
+
+  .u-header .u-image-1 {
+    width: 86px;
+    height: 68px;
+    margin-top: 8px;
+    margin-right: -17px;
   }
 
   .u-header .u-image-2 {
-    width: 340px;
-    height: 104px;
+    width: 218px;
+    height: 73px;
+    margin-top: -71px;
+    margin-bottom: 2px;
+    margin-left: -27px;
   }
 }
  .u-footer {
