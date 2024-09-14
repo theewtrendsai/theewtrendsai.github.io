@@ -12,24 +12,24 @@
   margin: 71px 50px 0;
 }
 
+.u-section-1 .u-text-2 {
+  font-size: 0.875rem;
+  margin: 3px calc(((100% - 1140px) / 2) + 650px) 0 calc(((100% - 1140px) / 2) + 414px);
+}
+
 .u-section-1 .u-btn-1 {
   letter-spacing: 1px;
   border-style: none;
   font-weight: 700;
   text-transform: uppercase;
   background-image: none;
-  font-size: 1rem;
-  margin: 29px calc(((100% - 1140px) / 2) + 337px) 0 auto;
+  font-size: 0.75rem;
+  margin: -22px calc(((100% - 1140px) / 2) + 387px) 0 auto;
   padding: 0;
 }
 
-.u-section-1 .u-text-2 {
-  font-size: 1.125rem;
-  margin: -29px calc(((100% - 1140px) / 2) + 664px) 0 calc(((100% - 1140px) / 2) + 366px);
-}
-
 .u-section-1 .u-text-3 {
-  margin: 25px 0 0;
+  margin: 9px 0 0;
 }
 
 .u-section-1 .u-btn-2 {
@@ -43,7 +43,7 @@
   font-weight: 700;
   text-transform: uppercase;
   font-size: 1.125rem;
-  margin: 24px auto 0;
+  margin: 21px auto 0;
   padding: 3px 29px 4px 28px;
 }
 
@@ -55,17 +55,17 @@
 }
 
 .u-section-1 .u-custom-html-2 {
-  margin: -48px calc(((100% - 1140px) / 2)) 0;
+  margin: -10px calc(((100% - 1140px) / 2)) 0;
 }
 
 .u-section-1 .u-custom-html-3 {
   height: 264px;
   width: 806px;
-  margin: 48px auto 0;
+  margin: 19px auto 0;
 }
 
 .u-section-1 .u-custom-html-4 {
-  margin: 155px calc(((100% - 1140px) / 2)) 60px;
+  margin: 184px calc(((100% - 1140px) / 2)) 60px;
 }
 
 @media (max-width: 1199px) {
@@ -79,17 +79,17 @@
     margin-right: 0;
   }
 
-  .u-section-1 .u-btn-1 {
-    margin-right: calc(((100% - 940px) / 2) + 137px);
+  .u-section-1 .u-text-2 {
+    margin-right: calc(((100% - 940px) / 2) + 550px);
+    margin-left: calc(((100% - 940px) / 2) + 314px);
   }
 
-  .u-section-1 .u-text-2 {
-    margin-right: calc(((100% - 940px) / 2) + 564px);
-    margin-left: calc(((100% - 940px) / 2) + 266px);
+  .u-section-1 .u-btn-1 {
+    margin-right: calc(((100% - 940px) / 2) + 187px);
   }
 
   .u-section-1 .u-text-3 {
-    margin-top: 365px;
+    margin-top: 368px;
   }
 
   .u-section-1 .u-btn-3 {
@@ -109,7 +109,6 @@
 
   .u-section-1 .u-custom-html-3 {
     transition-duration: 0.5s;
-    margin-top: 219px;
   }
 
   .u-section-1 .u-custom-html-4 {
@@ -127,18 +126,20 @@
     font-size: 3.75rem;
   }
 
+  .u-section-1 .u-text-2 {
+    margin-top: 6px;
+    margin-right: calc(((100% - 720px) / 2) + 440px);
+    margin-left: calc(((100% - 720px) / 2) + 204px);
+  }
+
   .u-section-1 .u-btn-1 {
     font-size: 0.875rem;
+    margin-top: -25px;
     margin-right: calc(((100% - 720px) / 2));
   }
 
-  .u-section-1 .u-text-2 {
-    margin-right: calc(((100% - 720px) / 2) + 454px);
-    margin-left: calc(((100% - 720px) / 2) + 156px);
-  }
-
   .u-section-1 .u-text-3 {
-    margin-top: 302px;
+    margin-top: 305px;
   }
 
   .u-section-1 .u-btn-3 {
@@ -157,7 +158,6 @@
 
   .u-section-1 .u-custom-html-3 {
     width: 720px;
-    margin-top: 43px;
   }
 }
 
@@ -170,15 +170,16 @@
     font-size: 3rem;
   }
 
-  .u-section-1 .u-btn-1 {
-    font-size: 0.75rem;
-    margin-right: calc(((100% - 540px) / 2));
+  .u-section-1 .u-text-2 {
+    margin-top: 3px;
+    margin-right: calc(((100% - 540px) / 2) + 350px);
+    margin-left: calc(((100% - 540px) / 2) + 114px);
   }
 
-  .u-section-1 .u-text-2 {
-    font-size: 0.875rem;
-    margin-right: calc(((100% - 540px) / 2) + 364px);
-    margin-left: calc(((100% - 540px) / 2) + 66px);
+  .u-section-1 .u-btn-1 {
+    font-size: 0.75rem;
+    margin-top: -22px;
+    margin-right: calc(((100% - 540px) / 2));
   }
 
   .u-section-1 .u-custom-html-1 {
@@ -205,15 +206,21 @@
     font-size: 2.25rem;
   }
 
+  .u-section-1 .u-text-2 {
+    font-size: 0.75rem;
+    margin-top: 0;
+    margin-right: calc(((100% - 340px) / 2) + 250px);
+    margin-left: calc(((100% - 340px) / 2));
+  }
+
   .u-section-1 .u-btn-1 {
     font-size: 0.625rem;
+    margin-top: -15px;
     margin-right: calc(((100% - 340px) / 2));
   }
 
-  .u-section-1 .u-text-2 {
-    font-size: 0.75rem;
-    margin-right: calc(((100% - 340px) / 2) + 230px);
-    margin-left: calc(((100% - 340px) / 2));
+  .u-section-1 .u-text-3 {
+    margin-top: 301px;
   }
 
   .u-section-1 .u-btn-3 {
