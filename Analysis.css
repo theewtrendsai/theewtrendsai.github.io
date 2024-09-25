@@ -1,3 +1,8 @@
+ .u-section-1 {
+  background-image: url("images/-min.jpg");
+  background-position: 50% 50%;
+}
+
 .u-section-1 .u-sheet-1 {
   min-height: 923px;
 }
@@ -5,14 +10,8 @@
 .u-section-1 .u-custom-html-1 {
   height: auto;
   min-height: 807px;
-  width: 1005px;
-  margin: 26px auto 60px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-1 .u-custom-html-1 {
-    width: 940px;
-  }
+  width: 901px;
+  margin: 41px auto 60px;
 }
 
 @media (max-width: 991px) {
