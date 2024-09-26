@@ -42369,18 +42369,14 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 /*end-variables sitestylecss*/
- .u-header {
-  background-image: none;
-}
-
 .u-header .u-sheet-1 {
-  min-height: 128px;
+  min-height: 151px;
 }
 
 .u-header .u-image-1 {
   width: 121px;
   height: 97px;
-  margin: 12px 38px 0 auto;
+  margin: 35px 68px 0 auto;
 }
 
 .u-header .u-logo-image-1 {
@@ -42391,22 +42387,35 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-image-2 {
   width: 367px;
   height: 113px;
-  margin: -108px auto 15px 16px;
+  margin: -124px auto 30px 46px;
 }
 @media (max-width: 1199px) {
+  .u-header .u-sheet-1 {
+    min-height: 331px;
+  }
+
   .u-header .u-image-1 {
-    margin-right: 38px;
+    margin-right: 68px;
   }
 
   .u-header .u-image-2 {
-    margin-top: -108px;
+    margin-top: -124px;
+    margin-left: 46px;
   }
 }
-
-
+@media (max-width: 991px) {
+  .u-header .u-sheet-1 {
+    min-height: 254px;
+  }
+}
+@media (max-width: 767px) {
+  .u-header .u-sheet-1 {
+    min-height: 191px;
+  }
+}
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 89px;
+    min-height: 112px;
   }
 
   .u-header .u-image-2 {
