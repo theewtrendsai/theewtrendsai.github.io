@@ -42394,7 +42394,7 @@ a.u-link.u-text-hover-grey-90:hover {
   font-size: 0.625rem;
   border-style: solid;
   font-weight: 700;
-  margin: 6px 459px 0 auto;
+  margin: 8px 540px 0 auto;
   padding: 0;
 }
 
@@ -42402,21 +42402,21 @@ a.u-link.u-text-hover-grey-90:hover {
   border-style: solid;
   font-size: 0.625rem;
   font-weight: 700;
-  margin: -18px 138px 0 auto;
+  margin: -20px 189px 0 auto;
   padding: 0;
 }
 
 .u-header .u-image-3 {
   width: 85px;
   height: 22px;
-  margin: -22px 198px 0 auto;
+  margin: -20px 264px 0 auto;
 }
 
 .u-header .u-btn-3 {
   border-style: solid;
   font-size: 0.625rem;
   font-weight: 700;
-  margin: -19px 315px 0 auto;
+  margin: -18px 385px 0 auto;
   padding: 0;
 }
 
@@ -42424,37 +42424,39 @@ a.u-link.u-text-hover-grey-90:hover {
   border-style: solid;
   font-size: 0.625rem;
   font-weight: 700;
-  margin: -17px 404px 12px auto;
+  margin: -18px 470px 10px auto;
   padding: 0;
 }
 @media (max-width: 1199px) {
+  .u-header .u-image-2 {
+    margin-top: -78px;
+  }
+
   .u-header .u-btn-1 {
-    margin-right: 259px;
+    margin-right: 340px;
   }
 
   .u-header .u-btn-2 {
-    margin-top: -18px;
     margin-right: 0;
   }
 
   .u-header .u-image-3 {
-    margin-top: -22px;
-    margin-right: 198px;
+    margin-right: 264px;
   }
 
   .u-header .u-btn-3 {
-    margin-top: -19px;
-    margin-right: 115px;
+    margin-top: -18px;
+    margin-right: 185px;
   }
 
   .u-header .u-btn-4 {
-    margin-top: -17px;
-    margin-right: 204px;
+    margin-top: -18px;
+    margin-right: 270px;
   }
 }
 @media (max-width: 991px) {
   .u-header .u-btn-1 {
-    margin-right: 39px;
+    margin-right: 120px;
   }
 
   .u-header .u-btn-3 {
@@ -42462,11 +42464,15 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-btn-4 {
-    margin-right: 0;
+    margin-right: 50px;
   }
 }
 @media (max-width: 767px) {
   .u-header .u-btn-1 {
+    margin-right: 0;
+  }
+
+  .u-header .u-btn-4 {
     margin-right: 0;
   }
 }
@@ -42485,6 +42491,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-image-3 {
     margin-top: -6px;
+    margin-right: 255px;
   }
 
   .u-header .u-btn-3 {
