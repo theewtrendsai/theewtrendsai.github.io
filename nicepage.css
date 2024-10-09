@@ -42402,14 +42402,14 @@ a.u-link.u-text-hover-grey-90:hover {
   border-style: solid;
   font-size: 0.625rem;
   font-weight: 700;
-  margin: -20px 189px 0 auto;
+  margin: -18px 189px 0 auto;
   padding: 0;
 }
 
 .u-header .u-image-3 {
   width: 85px;
   height: 22px;
-  margin: -20px 264px 0 auto;
+  margin: -22px 264px 0 auto;
 }
 
 .u-header .u-btn-3 {
@@ -42437,10 +42437,12 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-btn-2 {
+    margin-top: -18px;
     margin-right: 0;
   }
 
   .u-header .u-image-3 {
+    margin-top: -22px;
     margin-right: 264px;
   }
 
