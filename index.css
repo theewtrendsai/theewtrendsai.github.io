@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 542px;
+  min-height: 803px;
 }
 
 .u-section-1 .u-text-1 {
@@ -9,7 +9,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 0.3;
   width: 421px;
-  margin: 46px auto 0;
+  margin: 42px auto 0;
 }
 
 .u-section-1 .u-custom-html-1 {
@@ -19,17 +19,42 @@
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 0px;
   width: 807px;
-  margin: 35px auto 0;
+  margin: 48px auto 0;
+}
+
+.u-section-1 .u-custom-html-2 {
+  height: auto;
+  min-height: 108px;
+  margin: 48px 226px 60px 302px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-custom-html-2 {
+    margin-right: 126px;
+    margin-left: 202px;
+    width: 612px;
+  }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-custom-html-1 {
     width: 720px;
   }
+
+  .u-section-1 .u-custom-html-2 {
+    margin-right: 16px;
+    margin-left: 92px;
+  }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-custom-html-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-custom-html-2 {
+    margin-right: 0;
+    margin-left: 0;
     width: 540px;
   }
 }
@@ -42,42 +67,14 @@
   .u-section-1 .u-custom-html-1 {
     width: 340px;
   }
-}.u-section-2 .u-sheet-1 {
-  min-height: 162px;
-}
 
-.u-section-2 .u-custom-html-1 {
-  height: auto;
-  min-height: 108px;
-  --animation-custom_in-translate_x: -200px;
-  --animation-custom_in-translate_y: 0px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 0deg;
-  --animation-custom_in-scale: 1;
-  width: 804px;
-  margin: 40px auto 14px;
-}
-
-@media (max-width: 991px) {
-  .u-section-2 .u-custom-html-1 {
-    width: 720px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-2 .u-custom-html-1 {
-    width: 540px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-2 .u-custom-html-1 {
+  .u-section-1 .u-custom-html-2 {
     width: 340px;
   }
-}body {
+}.u-section-2 .u-sheet-1 {
+  min-height: 162px;
+}html, body {margin: 0; height: 100%; overflow: hidden;
     -moz-transform: scale(0.75, 0.75); /* Moz-browsers */
-    zoom: 0.75; /* Other non-webkit browsers */
-    zoom: 75%; /* Webkit browsers */
-.noClick {
-   pointer-events: none;
-}}
+    zoom: 0.90; /* Other non-webkit browsers */
+    zoom: 90%; /* Webkit browsers */
+}
