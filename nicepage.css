@@ -47291,13 +47291,14 @@ a.u-link.u-text-hover-color-var:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 120px;
+  min-height: 60px;
 }
 
 .u-footer .u-text-1 {
-  width: 865px;
   font-size: 0.875rem;
-  margin: 24px auto 60px;
+  font-style: italic;
+  width: 865px;
+  margin: 24px auto 8px;
 }
 
 @media (max-width: 991px) {
