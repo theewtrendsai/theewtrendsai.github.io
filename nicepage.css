@@ -47277,29 +47277,31 @@ a.u-link.u-text-hover-color-var:hover {
 }
 @media (max-width: 991px) {
   .u-header .u-image-1 {
-    margin-left: 214px;
+    margin-top: 54px;
+    margin-left: 65px;
   }
 
   .u-header .u-menu-1 {
-    margin-right: 207px;
+    width: auto;
+    margin-top: -23px;
+    margin-right: 79px;
+    margin-bottom: 13px;
   }
 }
 @media (max-width: 767px) {
-  .u-header .u-image-1 {
-    margin-left: 161px;
-  }
-
   .u-header .u-menu-1 {
-    margin-right: 155px;
+    margin-top: -23px;
+    margin-right: 79px;
   }
 }
 @media (max-width: 575px) {
   .u-header .u-image-1 {
-    margin-left: 101px;
+    margin-top: 53px;
+    margin-left: 0;
   }
 
   .u-header .u-menu-1 {
-    margin-right: 98px;
+    margin-right: 0;
   }
 }
  .u-footer {
